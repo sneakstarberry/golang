@@ -1,0 +1,2 @@
+can't load package: package github.com/sneakstarberry/web2: 
+main_test.go:1:1: expected 'package', found 'EOF'

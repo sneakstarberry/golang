@@ -1,0 +1,10 @@
+{
+    "go.addTags": {
+    
+    },
+    "go.alternateTools": {
+    
+    },
+    "go.formatTool": "gofmt",
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe"
+}
